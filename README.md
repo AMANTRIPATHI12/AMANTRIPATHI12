@@ -193,16 +193,6 @@ Features
 
 ---
 
-# 📚 Currently Learning
-
-- Advanced System Design
-- Distributed Systems
-- Cloud Computing
-- Microservices
-- DevOps Fundamentals
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
