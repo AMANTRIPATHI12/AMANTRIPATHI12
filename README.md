@@ -1,6 +1,4 @@
-```md
 <div align="center">
-
 # Hi 👋, I'm Aman Tripathi
 
 ### Full Stack Developer | Software Engineer | Building Scalable Web Applications
@@ -238,4 +236,3 @@ Features
 ⭐ From **Aman Tripathi**
 
 </div>
-```
